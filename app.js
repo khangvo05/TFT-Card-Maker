@@ -11,6 +11,8 @@ const cardState = {
     borderHeight: 60,
     traitSize: 40,
     traitFontSize: 20,
+    panX: 0.5, 
+    panY: 0.5,
     fontFamily: "Beaufort for LOL",
     traits: [] 
 };
@@ -28,6 +30,8 @@ const dom = {
         cost: document.getElementById('selectCost'),
         image: document.getElementById('uploadImage'),
         zoom: document.getElementById('zoomSlider'),
+        panX: document.getElementById('panXSlider'),
+        panY: document.getElementById('panYSlider'),
         // NEW INPUTS
         nameSize: document.getElementById('nameSizeInput'),
         borderHeight: document.getElementById('borderHeightInput'),
@@ -237,7 +241,15 @@ function attachStaticListeners() {
         cardState.fontFamily = e.target.value;
         triggerRender();
     });
+    dom.inputs.panX.addEventListener('input', (e) => { 
+        cardState.panX = parseFloat(e.target.value); 
+        triggerRender(); 
+    });
     
+    dom.inputs.panY.addEventListener('input', (e) => { 
+        cardState.panY = parseFloat(e.target.value); 
+        triggerRender(); 
+    });
     dom.inputs.nameSize.addEventListener('input', (e) => { cardState.nameSize = parseInt(e.target.value); triggerRender(); });
     dom.inputs.borderHeight.addEventListener('input', (e) => { cardState.borderHeight = parseInt(e.target.value); triggerRender(); });
     dom.inputs.traitSize.addEventListener('input', (e) => { cardState.traitSize = parseInt(e.target.value); triggerRender(); });

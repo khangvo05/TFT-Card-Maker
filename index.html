@@ -59,15 +59,28 @@
             </div>
         </section>
 
-        <section class="control-group">
-            <h3>2. Image & Zoom</h3>
+<section class="control-group">
+            <h3>2. Image Controls</h3>
+            
             <div class="form-row">
                 <label>Champion Image</label>
                 <input type="file" id="uploadImage" accept="image/*">
             </div>
+
             <div class="form-row">
-                <label>Image Zoom</label>
+                <label>Zoom Level</label>
                 <input type="range" id="zoomSlider" min="1" max="3" step="0.1" value="1">
+            </div>
+
+            <div class="form-row two-col">
+                <div>
+                    <label>Position X (Left/Right)</label>
+                    <input type="range" id="panXSlider" min="0" max="1" step="0.01" value="0.5">
+                </div>
+                <div>
+                    <label>Position Y (Up/Down)</label>
+                    <input type="range" id="panYSlider" min="0" max="1" step="0.01" value="0.5">
+                </div>
             </div>
         </section>
 

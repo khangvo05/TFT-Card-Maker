@@ -8,14 +8,13 @@ const RENDER_CONSTANTS = {
 };
 
 function renderCard(ctx, state, assets) {
-    const { WIDTH, HEIGHT } = RENDER_CONSTANTS;
+const { WIDTH, HEIGHT, BAR_CONFIG } = RENDER_CONSTANTS;
 
-    //CLEAR
     ctx.clearRect(0, 0, WIDTH, HEIGHT);
 
-    //USER IMAGE
     if (state.image) {
-        drawImageProp(ctx, state.image, 0, 0, WIDTH, HEIGHT, 0.5, 0.5, state.zoom);
+        
+        drawImageProp(ctx, state.image, 0, 0, WIDTH, HEIGHT, state.panX, state.panY, state.zoom);
     } else {
         ctx.fillStyle = '#1c1c1c';
         ctx.fillRect(0, 0, WIDTH, HEIGHT);
@@ -38,7 +37,6 @@ function renderCard(ctx, state, assets) {
 
         // Draw Window (Top)
         ctx.drawImage(borderImg, 0, 0, imgW, sourceWindowH, 0, 0, WIDTH, destWindowH);
-        // Draw Bar (Bottom) - Squashed to user preference
         ctx.drawImage(borderImg, 0, sourceWindowH, imgW, sourceBarH, 0, destWindowH, WIDTH, currentBorderH);
     }
 

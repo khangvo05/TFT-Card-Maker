@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="25"
+   viewBox="0 0 24 25"
+   fill="none"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="Monolith_TFT_icon.svg"
+   inkscape:export-filename="Monolith_TFT_icon.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="16"
+     inkscape:cx="13.1875"
+     inkscape:cy="12.65625"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     id="path3"
+     d="M 21.0444,6.72163 19.4,8.22805 18.0667,15.94 l 2.8222,1.6639 0.1555,0.0674 0.1334,-0.0674 L 24,15.94 22.6889,8.22805 Z M 4.6,8.22805 2.95555,6.72163 1.31111,8.22805 0,15.94 2.82222,17.6039 2.95555,17.6713 3.11111,17.6039 5.93333,15.94 Z M 15.6444,4.85546 12,2 8.35556,4.85546 6.31111,19.6499 12,23 17.6889,19.6499 Z M 12,20.1221 V 16.637 L 9.28889,12.4325 10.5778,6.24947 12,5.14775 l 1.4222,1.10172 0.0222,0.1349 -0.7111,3.46253 2.1111,3.2827 0.9778,4.7216 z"
+     style="fill:#bd9e59;fill-opacity:1" />
+</svg>

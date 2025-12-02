@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="58"
+   height="58"
+   viewBox="0 0 58 58"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="Empress_normal_1685072779-Empress-gray.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.0689655"
+     inkscape:cx="29"
+     inkscape:cy="28.877119"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <mask
+     id="mask0_1824_2385"
+     style="mask-type:luminance"
+     maskUnits="userSpaceOnUse"
+     x="12"
+     y="7"
+     width="34"
+     height="44">
+    <path
+       d="M45.4536 7.52393H12.5466V50.4761H45.4536V7.52393Z"
+       fill="white"
+       id="path1" />
+  </mask>
+  <g
+     mask="url(#mask0_1824_2385)"
+     id="g4"
+     style="fill:#bd9e59;fill-opacity:1"
+     transform="matrix(1.3403531,0,0,1.3403531,-9.8703739,-9.87026)">
+    <path
+       d="m 38.3768,7.52393 c 0.8941,4.32587 0.1571,8.94567 -2.2113,12.78417 H 21.6615 C 19.3214,16.518 18.5762,11.9666 19.418,7.68906 15.3298,11.02 12.6433,16.4213 12.5466,22.5395 l 5.5584,1.2285 c 4.0398,0.8941 8.1764,3.057 10.8951,6.1745 2.7188,-3.1175 6.8553,-5.2844 10.8992,-6.1745 l 5.5583,-1.2285 C 45.3609,16.3166 42.5858,10.8348 38.3808,7.52393 Z"
+       fill="#A0A0A0"
+       id="path2"
+       style="fill:#bd9e59;fill-opacity:1" />
+    <path
+       d="m 32.8548,14.4557 c 0,-2.9282 -1.5426,-5.4858 -3.8546,-6.93177 -2.3119,1.44597 -3.8505,4.00357 -3.8505,6.93177 0,0.0282 0,0.0604 0,0.0886 0.0523,4.9864 7.6527,4.9864 7.7051,0 0,-0.0282 0,-0.0604 0,-0.0886 z"
+       fill="#A0A0A0"
+       id="path3"
+       style="fill:#bd9e59;fill-opacity:1" />
+    <path
+       d="m 34.8968,29.2017 c -3.0048,1.3372 -5.8967,5.6469 -5.8967,5.6469 0,0 -2.892,-4.3097 -5.8967,-5.6469 -1.4661,6.533 -4.3016,14.0488 -9.715,14.0488 l 4.636,7.2299 h 21.9514 l 4.636,-7.2299 c -5.4093,0 -8.2489,-7.5158 -9.715,-14.0488 z"
+       fill="#A0A0A0"
+       id="path4"
+       style="fill:#bd9e59;fill-opacity:1" />
+  </g>
+</svg>

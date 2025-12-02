@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="58"
+   height="58"
+   viewBox="0 0 58 58"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="Freljord_normal_1685076708-Freljord-gray.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.0689655"
+     inkscape:cx="26.29661"
+     inkscape:cy="28.385593"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     id="path6"
+     d="m 1.0674299,25.504839 0.1761155,0.368801 6.2524514,13.099523 1.9154364,1.68965 V 29.484244 h 1.2603308 l 4.705995,22.208642 1.953971,1.689689 V 26.913837 l -5.597647,-5.96633 -10.6722557,4.557332 z m 45.1929951,-4.557332 -5.59746,5.96633 v 26.468738 l 1.953825,-1.689689 4.705984,-22.208642 h 1.260467 v 11.178569 l 1.915421,-1.68965 6.252477,-13.099522 0.176155,-0.368801 -10.672319,-4.557332 z m -8.063055,2.834428 -9.197174,-9.197132 -9.197267,9.197132 5.608698,5.971786 -4.128092,3.92993 v 8.112824 l 7.716661,-8.217489 7.716563,8.217489 v -8.112823 l -4.127956,-3.92993 z m -25.46164,-7.523597 4.370103,4.656368 6.324083,-6.324044 -2.994156,-2.994157 H 9.6259744 l 2.9666926,-5.5591033 4.17741,1.0072547 v 1.9043668 h 4.496778 V 4.1881076 L 6.9288924,0.2197085 0.104,11.860644 4.4191618,19.813878 Z m 21.834239,-1.667676 6.324076,6.324044 4.370233,-4.656368 8.316555,3.555541 L 57.896,11.860644 51.070961,0.2197085 36.733024,4.1881076 v 4.7609156 h 4.496759 V 7.0446564 l 4.177702,-1.0072547 2.966545,5.5591033 h -10.8099 z m -10.963777,30.128666 5.394004,13.060964 5.393906,-13.060964 -5.393906,-5.3939 z"
+     style="fill:#bd9e59;fill-opacity:1;stroke-width:1.36636" />
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="58"
+   height="58"
+   viewBox="0 0 58 58"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Warden_white_1709371772-warden.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.0689655"
+     inkscape:cx="29"
+     inkscape:cy="28.877119"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M 13.407805,24.388862 C 11.365376,22.996171 9.1978336,22.333867 9.1978336,22.333867 L 18.05181,15.778071 29,21.777619 l 10.948191,-5.999548 8.853976,6.555796 c 0,0 -2.167543,0.662304 -4.209972,2.054995 -0.874419,0.596571 -2.426747,2.360738 -2.426747,2.360738 v 3.99979 L 29.00221,37.498381 15.838834,30.74939 V 26.7496 c 0,0 -1.5544,-1.764167 -2.42661,-2.360738 z M 41.545815,7.8338667 29,0 16.454186,7.8338667 29,15.499948 Z M 44.501467,35.131152 29,43.665576 13.498534,35.131152 2.761905,40.999095 l 9.590162,3.834076 v 5.999686 L 29,58 45.647934,50.832857 v -5.999686 l 9.590161,-3.834076 z"
+     fill="#ffffff"
+     id="path1"
+     style="stroke-width:1.38095;fill:#bd9e59;fill-opacity:1" />
+</svg>

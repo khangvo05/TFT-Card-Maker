@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="58"
+   height="58"
+   viewBox="0 0 58 58"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Superfan_TFT10_icon.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="28.637825"
+     inkscape:cy="26.428116"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M 39.961033,2.5287289 C 46.745342,1.77564 53.168358,4.9004456 58,9.4303181 57.909617,14.387313 54.997292,18.714911 53.337767,23.255972 50.775375,22.907441 48.2241,22.480367 45.672825,22.064459 c -0.112617,11.172926 -0.1015,33.518876 -0.1015,33.518876 l -33.797494,-0.01764 c 0,0 0.15805,-22.204575 -0.07902,-33.220079 C 9.335535,22.649075 6.98755,22.941371 4.628255,23.211119 3.0253042,18.66984 0.02258815,14.364838 0,9.4303181 4.7750192,5.0016073 11.119107,1.9667234 17.768034,2.4950164 19.833825,7.2159506 22.836485,13.420646 29.022717,12.892339 35.061725,13.330722 38.098267,7.2496873 39.961033,2.5287289 Z M 28.666321,17.798907 28.480658,38.318185 c 0,0 -7.900832,1.362495 -9.459558,4.484608 -1.214637,2.432907 -0.779496,6.744297 1.636663,7.991917 3.884533,2.005837 10.823497,-0.727941 11.99962,-5.29395 1.176123,-4.566009 0.98965,-13.162375 0.98965,-13.162375 l 6.05445,6.271975 c 0,0 0.282881,-8.322887 -1.377258,-10.936867 -1.660139,-2.61398 -9.657904,-9.874586 -9.657904,-9.874586 z"
+     fill="white"
+     id="path1"
+     style="fill:#bd9e59;fill-opacity:1;stroke-width:2.41667"
+     sodipodi:nodetypes="ccccccccccccccaazcczc" />
+</svg>

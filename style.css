@@ -178,7 +178,81 @@ input:focus, select:focus { border-color: var(--accent); outline: none; }
 }
 
 .legal-disclaimer {
-    font-size: 0.7rem;
+    font-size: 1rem;
     color: #444; /* Darker so it doesn't distract */
+}
+/* --- MOBILE --- */
+@media (max-width: 900px) {
+
+    /*  ENABLE BODY SCROLLING */
+    body {
+        overflow: auto; 
+    }
+
+    /* STACK THE LAYOUT */
+    .app-container {
+        display: flex;
+        flex-direction: column; /* Stack top-to-bottom */
+        height: auto; /* Let the page grow naturally */
+        grid-template-columns: none; /* Remove grid columns */
+    }
+
+    /*  PREVIEW PANEL (TOP) */
+    .preview-panel {
+        width: 100%;
+        height: auto; 
+        padding: 20px 0;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
+        
+        position: sticky;
+        top: 0;
+        z-index: 100; 
+        background: #0f0f13; 
+        box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+    }
+
+    /* Make canvas smaller */
+    canvas {
+        max-width: 90%; 
+        max-height: 40vh;
+    }
+
+    /* EDITOR PANEL (BOTTOM) */
+    .editor-panel {
+        width: 100%;
+        height: auto;
+        overflow: visible;
+        border-left: none;
+        padding: 20px;
+        box-sizing: border-box; 
+        padding-bottom: 80px;
+    }
+
+    /*UX FOR TOUCH */
+    
+
+    input, select {
+        font-size: 16px !important; 
+        padding: 12px;
+    }
+
+    input[type=range] {
+        height: 30px;
+    }
+
+    .trait-select-btn {
+        width: 60px;
+        height: 60px;
+    }
+
+
+    .editor-panel header {
+        display: none;
+    }
+    .modal-window {
+        width: 95%;
+        height: 90vh;
+    }
 }
 .tooltip.hidden { display: none; }

@@ -178,7 +178,7 @@ input:focus, select:focus { border-color: var(--accent); outline: none; }
 }
 
 .legal-disclaimer {
-    font-size: 0.7rem;
+    font-size: 1rem;
     color: #444; /* Darker so it doesn't distract */
 }
 /* --- MOBILE --- */
